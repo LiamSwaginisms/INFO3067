@@ -1,5 +1,6 @@
 [
   {
+	"ID": "NS1",
     "PRONAME": "Smarties",
     "GRAPHIC": "Smarties",
     "PRICE": 1.25,
@@ -10,6 +11,7 @@
     "BRAND": "Nestle"
   },
   {
+	"ID": "NB2",
     "PRONAME": "Big Turk",
     "GRAPHIC": "Big Turk",
     "PRICE": 1.25,
@@ -20,6 +22,7 @@
     "BRAND": "Nestle"
   },
   {
+	"ID": "NC3",
     "PRONAME": "Crunch",
     "GRAPHIC": "Crunch",
     "PRICE": 1.25,
@@ -30,6 +33,7 @@
     "BRAND": "Nestle"
   },
   {
+	"ID": "NR4",
     "PRONAME": "Rolo",
     "GRAPHIC": "Rolo",
     "PRICE": 1.25,
@@ -40,6 +44,7 @@
     "BRAND": "Nestle"
   },
   {
+	"ID": "NC5",
     "PRONAME": "Coffee Crisp",
     "GRAPHIC": "Coffee Crisp",
     "PRICE": 1.25,
@@ -50,6 +55,7 @@
     "BRAND": "Nestle"
   },
   {
+	"ID": "CC6",
     "PRONAME": "Caramilk",
     "GRAPHIC": "Caramilk",
     "PRICE": 1.25,
@@ -60,6 +66,7 @@
     "BRAND": "Cadbury"
   },
   {
+	"ID": "CM7",
     "PRONAME": "Mr. Big",
     "GRAPHIC": "Mr. Big",
     "PRICE": 1.25,
@@ -70,6 +77,7 @@
     "BRAND": "Cadbury"
   },
   {
+	"ID": "CC8",
     "PRONAME": "Crunchie",
     "GRAPHIC": "Crunchie",
     "PRICE": 1.25,
@@ -80,6 +88,7 @@
     "BRAND": "Cadbury"
   },
   {
+	"ID": "CC9",
     "PRONAME": "Crispy Crunch",
     "GRAPHIC": "Crispy Crunch",
     "PRICE": 1.25,
@@ -90,6 +99,7 @@
     "BRAND": "Cadbury"
   },
   {
+	"ID": "CW10",
     "PRONAME": "Wunderbar",
     "GRAPHIC": "Wunderbar",
     "PRICE": 1.25,
@@ -100,6 +110,7 @@
     "BRAND": "Cadbury"
   },
   {
+	"ID": "MM11",
     "PRONAME": "Mars Bars",
     "GRAPHIC": "Mars Bars",
     "PRICE": 1.25,
@@ -110,6 +121,7 @@
     "BRAND": "Mars"
   },
   {
+	"ID": "MT12",
     "PRONAME": "Twix",
     "GRAPHIC": "Twix",
     "PRICE": 1.25,
@@ -120,6 +132,7 @@
     "BRAND": "Mars"
   },
   {
+	"ID": "MB13",
     "PRONAME": "Bounty",
     "GRAPHIC": "Bounty",
     "PRICE": 1.25,
@@ -130,6 +143,7 @@
     "BRAND": "Mars"
   },
   {
+	"ID": "MM14",
     "PRONAME": "Maltesers",
     "GRAPHIC": "Maltesers",
     "PRICE": 1.25,
@@ -140,6 +154,7 @@
     "BRAND": "Mars"
   },
   {
+	"ID": "MM15",
     "PRONAME": "3 Musketeers",
     "GRAPHIC": "3 Musketeers",
     "PRICE": 1.25,
