@@ -1,0 +1,153 @@
+[
+  {
+    "Name": "Smarties",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Small candy coated chocolates",
+    "Brand": "Nestle"
+  },
+  {
+    "Name": "Big Turk",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Turkish Delight covered in chocolate",
+    "Brand": "Nestle"
+  },
+  {
+    "Name": "Crunch",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Chocolate and crisped rice",
+    "Brand": "Nestle"
+  },
+  {
+    "Name": "Rolo",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Chocolate filled with chewy caramel",
+    "Brand": "Nestle"
+  },
+  {
+    "Name": "Coffee Crisp",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Cream Coffee flavoured wafers covered in chocolate",
+    "Brand": "Nestle"
+  },
+  {
+    "Name": "Caramilk",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Chocolate filled with smooth caramel",
+    "Brand": "Cadbury"
+  },
+  {
+    "Name": "Mr. Big",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Chocolate filled with a vanilla wafer, caramel and rice crisp",
+    "Brand": "Cadbury"
+  },
+  {
+    "Name": "Crunchie",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Toffee covered in chocolate",
+    "Brand": "Cadbury"
+  },
+  {
+    "Name": "Crispy Crunch",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Chrunchy peanut butter covered in chocolate",
+    "Brand": "Cadbury"
+  },
+  {
+    "Name": "Wunderbar",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Peanutbutter mixed with rice crisps covered in chocolate",
+    "Brand": "Cadbury"
+  },
+  {
+    "Name": "Mars Bars",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Chocolate filled with nougat and caramel",
+    "Brand": "Mars"
+  },
+  {
+    "Name": "Twix",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Two cookie covered in caramel and chocolate",
+    "Brand": "Mars"
+  },
+  {
+    "Name": "Bounty",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Coconut covered in chocolate",
+    "Brand": "Mars"
+  },
+  {
+    "Name": "Maltesers",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Malted honeycomb covered in chocolate",
+    "Brand": "Mars"
+  },
+  {
+    "Name": "3 Musketeers",
+    "Graphic": "",
+    "Price": "1.25",
+    "MSRP": "1.25",
+    "QtyOnHand": "48",
+    "QtyOnBackOrder": "48",
+    "Product": "Chocolate filled with nougat",
+    "Brand": "Mars"
+  }
+]
+  
