@@ -35,8 +35,8 @@
   },
   {
     "ID": "NR4",
-    "PRONAME": "rolo.png",
-    "GRAPHIC": "Rolo",
+    "PRONAME": "Rolo",
+    "GRAPHIC": "rolo.png",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
