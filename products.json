@@ -1,8 +1,9 @@
+
 [
   {
-	"ID": "NS1",
+    "ID": "NS1",
     "PRONAME": "Smarties",
-    "GRAPHIC": "Smarties",
+    "GRAPHIC": "smarties.jpg",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -11,9 +12,9 @@
     "BRAND": "Nestle"
   },
   {
-	"ID": "NB2",
+    "ID": "NB2",
     "PRONAME": "Big Turk",
-    "GRAPHIC": "Big Turk",
+    "GRAPHIC": "bigturk.png",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -22,9 +23,9 @@
     "BRAND": "Nestle"
   },
   {
-	"ID": "NC3",
+    "ID": "NC3",
     "PRONAME": "Crunch",
-    "GRAPHIC": "Crunch",
+    "GRAPHIC": "crunch.png",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -33,8 +34,8 @@
     "BRAND": "Nestle"
   },
   {
-	"ID": "NR4",
-    "PRONAME": "Rolo",
+    "ID": "NR4",
+    "PRONAME": "rolo.png",
     "GRAPHIC": "Rolo",
     "PRICE": 1.25,
     "MSRP": 1.25,
@@ -44,9 +45,9 @@
     "BRAND": "Nestle"
   },
   {
-	"ID": "NC5",
+    "ID": "NC5",
     "PRONAME": "Coffee Crisp",
-    "GRAPHIC": "Coffee Crisp",
+    "GRAPHIC": "coffeecrisp.png",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -55,9 +56,9 @@
     "BRAND": "Nestle"
   },
   {
-	"ID": "CC6",
+    "ID": "CC6",
     "PRONAME": "Caramilk",
-    "GRAPHIC": "Caramilk",
+    "GRAPHIC": "caramilk.jpg",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -66,9 +67,9 @@
     "BRAND": "Cadbury"
   },
   {
-	"ID": "CM7",
+    "ID": "CM7",
     "PRONAME": "Mr. Big",
-    "GRAPHIC": "Mr. Big",
+    "GRAPHIC": "mrbig.jpg",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -77,9 +78,9 @@
     "BRAND": "Cadbury"
   },
   {
-	"ID": "CC8",
+    "ID": "CC8",
     "PRONAME": "Crunchie",
-    "GRAPHIC": "Crunchie",
+    "GRAPHIC": "crunchie.jpg",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -88,9 +89,9 @@
     "BRAND": "Cadbury"
   },
   {
-	"ID": "CC9",
+    "ID": "CC9",
     "PRONAME": "Crispy Crunch",
-    "GRAPHIC": "Crispy Crunch",
+    "GRAPHIC": "crispycrunch.jpg",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -99,9 +100,9 @@
     "BRAND": "Cadbury"
   },
   {
-	"ID": "CW10",
+    "ID": "CW10",
     "PRONAME": "Wunderbar",
-    "GRAPHIC": "Wunderbar",
+    "GRAPHIC": "wunderbar.jpg",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -110,9 +111,9 @@
     "BRAND": "Cadbury"
   },
   {
-	"ID": "MM11",
+    "ID": "MM11",
     "PRONAME": "Mars Bars",
-    "GRAPHIC": "Mars Bars",
+    "GRAPHIC": "mars.jpg",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -121,9 +122,9 @@
     "BRAND": "Mars"
   },
   {
-	"ID": "MT12",
+    "ID": "MT12",
     "PRONAME": "Twix",
-    "GRAPHIC": "Twix",
+    "GRAPHIC": "twix.jpg",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -132,9 +133,9 @@
     "BRAND": "Mars"
   },
   {
-	"ID": "MB13",
+    "ID": "MB13",
     "PRONAME": "Bounty",
-    "GRAPHIC": "Bounty",
+    "GRAPHIC": "bounty.jpg",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -143,9 +144,9 @@
     "BRAND": "Mars"
   },
   {
-	"ID": "MM14",
+    "ID": "MM14",
     "PRONAME": "Maltesers",
-    "GRAPHIC": "Maltesers",
+    "GRAPHIC": "maltesers.jpg",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
@@ -154,9 +155,9 @@
     "BRAND": "Mars"
   },
   {
-	"ID": "MM15",
+    "ID": "MM15",
     "PRONAME": "3 Musketeers",
-    "GRAPHIC": "3 Musketeers",
+    "GRAPHIC": "3-musketeers.jpg",
     "PRICE": 1.25,
     "MSRP": 1.25,
     "QTY": 48,
